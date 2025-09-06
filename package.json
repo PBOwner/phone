@@ -10,13 +10,13 @@
   },
   "dependencies": {
     "@tsndr/cloudflare-worker-jwt": "3.2.0",
-    "discord-api-types": "0.38.22",
+    "discord-api-types": "0.38.23",
     "discord-verify": "1.2.0"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "4.20250905.0",
     "@tsconfig/strictest": "2.0.5",
-    "eslint": "9.34.0",
+    "eslint": "9.35.0",
     "eslint-config-promise": "github:promise/eslint-config",
     "twilio": "5.9.0",
     "typescript": "5.9.2",
